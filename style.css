@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(206, 248, 248);
+    font-family: 'Special Elite', cursive;
+}
+.header_div{
+background: white;
+color:red;
+}
+.header_div img{
+    width: 100px;
+}
+.main_div{
+    background: pink;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid rgb(255, 255, 255);
+}
+.main_div label{
+    background: white;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px rgb(24, 250, 3);
+}
+#camera,#result{
+    border: 2px solid white;
+    width:310px;
+    height: 300px;
+    box-shadow: 5px 5px 28px rgb(89, 0, 255);
+}
+.main_div button{
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px rgb(255, 0, 234);
+    border: 1px solid ;
+}
+.footer_div{
+    margin-bottom: 50px;
+}
+.footer_div h4{
+background: white;
+border-radius: 10px;
+padding: 5px;
+box-shadow: 5px 5px 18px white;
+}
+.footer_div img{
+    width: 70px;
+
+}
+.copyright_footer{
+    position: fixed;
+    color:black;
+    border-radius: 10px;
+    background:rgb(187, 255, 2);
+    line-height: 3;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+    font-weight: bold;
+}
